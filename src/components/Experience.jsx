@@ -25,30 +25,17 @@ const Experience = () => {
             side: "right",
             status: "COMPLETED"
         },
-
         {
-            year: "Apr 2025",
-            title: "Certified Data Scientist",
-            org: "Datamites",
-            desc: "Intensive training in Data Science, Machine Learning, and AI methodologies.",
-            icon: Award,
-            color: "text-yellow-500",
-            borderColor: "group-hover:border-yellow-500",
-            shadowColor: "group-hover:shadow-[0_0_20px_rgba(234,179,8,0.3)]",
+            year: "Present",
+            title: "Fresher",
+            org: "Open to Opportunities",
+            desc: "Aspiring Data Scientist & AI Engineer with a strong foundation in Machine Learning and Deep Learning. Ready to join immediately.",
+            icon: Code,
+            color: "text-emerald-400",
+            borderColor: "group-hover:border-emerald-400",
+            shadowColor: "group-hover:shadow-[0_0_20px_rgba(52,211,153,0.3)]",
             side: "left",
-            status: "ACHIEVED"
-        },
-        {
-            year: "Apr 2025 – Sep 2025",
-            title: "AI ENGINEER",
-            org: "Rubixe AI",
-            desc: "Developed AI-powered news research tool. Implemented RAG pipeline with FAISS. Integrated OpenAI for summaries.",
-            icon: Briefcase,
-            color: "text-cyan",
-            borderColor: "group-hover:border-cyan",
-            shadowColor: "group-hover:shadow-[0_0_20px_rgba(0,240,255,0.3)]",
-            side: "right",
-            status: "CURRENT_V9.0"
+            status: "AVAILABLE"
         }
     ];
 
