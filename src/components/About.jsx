@@ -6,6 +6,7 @@ const About = () => {
         <section className="py-32 px-6 lg:px-20 bg-black relative mb-20">
 
             {/* Section Header */}
+            {/* Section Header */}
             <div className="flex flex-col md:flex-row md:items-end gap-6 mb-12 border-b border-white/10 pb-6 max-w-7xl mx-auto">
                 <h2 className="text-5xl lg:text-7xl font-black text-white leading-[0.8] tracking-tighter">
                     ABOUT<br />
@@ -45,8 +46,8 @@ const About = () => {
                     {/* Stats Row */}
                     <div className="grid grid-cols-2 gap-4">
                         <div className="p-4 border border-white/10 bg-[#0a0a0a] text-center rounded-2xl">
-                            <span className="block text-3xl font-bold text-white mb-1">03+</span>
-                            <span className="text-xs font-mono text-grey uppercase">Years Exp.</span>
+                            <span className="block text-3xl font-bold text-white mb-1">Fresher</span>
+                            <span className="text-xs font-mono text-grey uppercase">Experience</span>
                         </div>
                         <div className="p-4 border border-white/10 bg-[#0a0a0a] text-center rounded-2xl">
                             <span className="block text-3xl font-bold text-white mb-1">15+</span>

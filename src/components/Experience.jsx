@@ -26,6 +26,18 @@ const Experience = () => {
             status: "COMPLETED"
         },
         {
+            year: "Apr 2025 – Sep 2025",
+            title: "AI INTERN",
+            org: "Rubixe AI",
+            desc: "Developed AI-powered news research tool. Implemented RAG pipeline with FAISS. Integrated OpenAI for summaries.",
+            icon: Briefcase,
+            color: "text-cyan",
+            borderColor: "group-hover:border-cyan",
+            shadowColor: "group-hover:shadow-[0_0_20px_rgba(0,240,255,0.3)]",
+            side: "left",
+            status: "INTERNSHIP"
+        },
+        {
             year: "Present",
             title: "Fresher",
             org: "Open to Opportunities",
@@ -34,7 +46,7 @@ const Experience = () => {
             color: "text-emerald-400",
             borderColor: "group-hover:border-emerald-400",
             shadowColor: "group-hover:shadow-[0_0_20px_rgba(52,211,153,0.3)]",
-            side: "left",
+            side: "right",
             status: "AVAILABLE"
         }
     ];
