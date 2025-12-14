@@ -1,5 +1,6 @@
 import React from 'react';
 import Navbar from './components/Navbar';
+import ViewCounter from './components/ViewCounter';
 import Hero from './components/Hero';
 import About from './components/About';
 import Experience from './components/Experience';
@@ -11,6 +12,7 @@ import Footer from './components/Footer';
 function App() {
   return (
     <div className="bg-black min-h-screen text-white selection:bg-white selection:text-black">
+      <ViewCounter />
       <Navbar />
       <Hero />
       <About />
